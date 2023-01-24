@@ -1,0 +1,72 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.america",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "animated_sticker_pack":true,
+         "identifier":"worldcup2022MEXgol",
+         "name":"México GOL",
+         "stickers":"11"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"worldcup2022animados",
+         "name":"Gol Animados",
+         "stickers":"6"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"apertura2022f10a1",
+         "name":"vs Cruz Azul (3)",
+         "stickers":"10"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"apertura2022f10a2",
+         "name":"vs Cruz Azul (4)",
+         "stickers":"10"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"jugadoresa2",
+         "name":"Jugadores (4)",
+         "stickers":"12"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"jugadoresa1",
+         "name":"Jugadores (3)",
+         "stickers":"9"
+      },      
+      {
+         "animated_sticker_pack":true,
+         "identifier":"henrysanchez",
+         "name":"Henry Sanchez",
+         "stickers":"12"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"sebastiancordova",
+         "name":"Sebastian Cordova",
+         "stickers":"9"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"giodossantos",
+         "name":"Gio Dos Santos",
+         "stickers":"9"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"memoochoa",
+         "name":"Memo Ochoa",
+         "stickers":"8"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"club",
+         "name":"Club",
+         "stickers":"11"
+      }
+   ]
+}
