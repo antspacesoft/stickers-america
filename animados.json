@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "animated_sticker_pack":true,
+         "identifier":"clausura2023f12d",
+         "name":"vs Chivas (4)",
+         "stickers":"10"
+      },
+      {
+         "animated_sticker_pack":true,
          "identifier":"worldcup2022MEXgol",
          "name":"México GOL",
          "stickers":"11"
