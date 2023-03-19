@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2023f12a",
+         "name":"vs Chivas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"clausura2023f12b",
+         "name":"vs Chivas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"clausura2023f12c",
+         "name":"vs Chivas (3)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"clausura2023f11a",
          "name":"vs Tigres (1)",
          "animated_sticker_pack":false,
