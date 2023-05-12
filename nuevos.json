@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "animated_sticker_pack":true,
+         "identifier":"logoa1",
+         "name":"Logo (1)",
+         "stickers":"13"
+      },
+      {
+         "animated_sticker_pack":true,
+         "identifier":"logoa2",
+         "name":"Logo (2)",
+         "stickers":"13"
+      },
+      {
          "identifier":"clausura2023c1a",
          "name":"vs San Luis (1)",
          "animated_sticker_pack":false,
