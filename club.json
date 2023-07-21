@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"frases1",
+         "name":"Frases 1",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"jersey2324a",
          "name":"Pack Jersey 23-24",
          "animated_sticker_pack":false,
