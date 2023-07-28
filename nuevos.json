@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"leaguescup2023f1",
+         "name":"vs St. Louis City",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
          "identifier":"frases1",
          "name":"Frases 1",
          "animated_sticker_pack":false,
