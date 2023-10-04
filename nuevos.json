@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2023f11a",
+         "name":"vs Pachuca (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"apertura2023f11b",
+         "name":"vs Pachuca (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"apertura2023f10",
          "name":"vs Pumas",
          "animated_sticker_pack":false,
