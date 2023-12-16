@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"club4",
+         "name":"Club (4)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"jersey2324b",
          "name":"Jersey 23-24 (2)",
          "animated_sticker_pack":false,
