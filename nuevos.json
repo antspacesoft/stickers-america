@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2023pf1",
+         "name":"Previa Final 2023",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"plantilla2023",
+         "name":"Plantilla 2023",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"animados1",
          "name":"Animados (1)",
          "animated_sticker_pack":true,
