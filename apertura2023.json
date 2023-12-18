@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2023w2",
+         "name":"Campeón Apertura 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"apertura2023w3",
+         "name":"Campeón Apertura 2023 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"apertura2023w1",
          "name":"Campeón Apertura 2023 (1)",
          "animated_sticker_pack":false,
