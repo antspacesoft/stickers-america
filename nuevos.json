@@ -4,6 +4,24 @@
    "sticker_packs":[
       {
          "animated_sticker_pack":false,
+         "identifier":"anonuevo1",
+         "name":"Feliz Año Nuevo (1)",
+         "stickers":"7"
+      },
+      {
+         "animated_sticker_pack":false,
+         "identifier":"anonuevo2",
+         "name":"Feliz Año Nuevo (2)",
+         "stickers":"7"
+      },
+      {
+         "animated_sticker_pack":false,
+         "identifier":"anonuevo2022",
+         "name":"Feliz Año Nuevo",
+         "stickers":"11"
+      },
+      {
+         "animated_sticker_pack":false,
          "identifier":"navidad2",
          "name":"Feliz Navidad (2)",
          "stickers":"10"
