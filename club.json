@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
       {
+         "identifier":"emojis2",
+         "name":"Emojis (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"emojis3",
+         "name":"Emojis (3)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"emojis4",
+         "name":"Emojis (4)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"dorsales2024a",
          "name":"Dorsales 2024",
          "animated_sticker_pack":false,
