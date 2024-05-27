@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2024w2",
+         "name":"Bicampeones (4)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"clausura2024w3",
+         "name":"Bicampeones (5)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"clausura2024f2a",
          "name":"Bicampeones (1)",
          "animated_sticker_pack":false,
