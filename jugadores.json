@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"henrymartin1",
+         "name":"Henry Martin (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"henrymartin2",
+         "name":"Henry Martin (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"alejandrozendejas",
          "name":"Alejandro Zendejas",
          "animated_sticker_pack":false,
@@ -41,7 +53,7 @@
       {
          "animated_sticker_pack":true,
          "identifier":"henrysanchez",
-         "name":"Henry Sanchez",
+         "name":"Henry Martin",
          "stickers":"12"
       },
       {
