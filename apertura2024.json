@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2024s1",
+         "name":"vs Cruz Azul (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"apertura2024s2",
+         "name":"vs Cruz Azul (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"apertura2024c2",
          "name":"vs Toluca (2)",
          "animated_sticker_pack":false,
