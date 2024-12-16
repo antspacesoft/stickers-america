@@ -3,8 +3,20 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2024w2",
+         "name":"Tricampeones (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"apertura2024w3",
+         "name":"Tricampeones (3)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"apertura2024w1",
-         "name":"Tricampeones",
+         "name":"Tricampeones (1)",
          "animated_sticker_pack":false,
          "stickers":"13"
       },
