@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2025f17a",
+         "name":"vs Mazatlan (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"clausura2025f17b",
+         "name":"vs Mazatlan (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"clausura2025f13",
          "name":"vs Tigres",
          "animated_sticker_pack":false,
