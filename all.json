@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"club5",
+         "name":"Club (5)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"club6",
+         "name":"Club (6)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
          "identifier":"clausura2025s2a",
          "name":"vs Cruz Azul (1)",
          "animated_sticker_pack":false,
