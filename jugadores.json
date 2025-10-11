@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"rodriguezgola1",
+         "name":"Gol Rodriguez (1)",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },      
+      {
          "identifier":"plantilla2025b",
          "name":"Plantilla 2025 (2)",
          "animated_sticker_pack":false,
