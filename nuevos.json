@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
        {
+         "identifier":"clausura2026f5",
+         "name":"vs Monterrey",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+       },
+       {
          "identifier":"clausura2026f4",
          "name":"vs Necaxa",
          "animated_sticker_pack":false,
@@ -31,55 +37,55 @@
          "name":"vs Club Leon",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },        
+      },
       {
          "identifier":"apertura2025f14",
          "name":"vs Puebla",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"rodriguezgola1",
          "name":"Gol Rodriguez",
          "animated_sticker_pack":true,
          "stickers":"10"
-      },      
+      },
       {
          "identifier":"gola1",
          "name":"Gol Animado (1)",
          "animated_sticker_pack":true,
          "stickers":"8"
-      },      
+      },
       {
          "identifier":"apertura2025f12a",
          "name":"vs Santos Laguna (1)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      }, 
+      },
       {
          "identifier":"apertura2025f12b",
          "name":"vs Santos Laguna (2)",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },       
+      },
       {
          "identifier":"plantilla2025b",
          "name":"Plantilla 2025 (2)",
          "animated_sticker_pack":false,
          "stickers":"25"
-      },      
+      },
       {
          "identifier":"apertura2025f11",
          "name":"vs Pumas",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },      
+      },
       {
          "identifier":"apertura2025f10",
          "name":"vs Atl. San Luis",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },         
+      },
       {
          "identifier":"apertura2025f7",
          "name":"vs Pachuca",
