@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2026f6",
+         "name":"vs Puebla",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"leaguescup2026c1",
          "name":"vs Columbus Crew",
          "animated_sticker_pack":false,
